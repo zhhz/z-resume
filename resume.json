@@ -1,0 +1,72 @@
+{
+  "Experience": [
+    {
+      "company": "Philadelphia Media Network (The Inquirer)",
+      "title": "Principal Software Engineer",
+      "location": "Philadelphia, PA",
+      "years": "2018 - Present"
+    },
+    {
+      "company": "Thingworx (PTC)",
+      "title": "Principal Software Engineer",
+      "location": "Exton, PA",
+      "years": "2015 - 2018"
+    },
+    {
+      "company": "Hay Group",
+      "title": "Sr. Software Engineer/Team Lead",
+      "location": "Philadelphia, PA",
+      "years": "2014 - 2015"
+    },
+    {
+      "company": "Chesapeake Spice",
+      "title": "Sr. Software Engineer/IT Manager",
+      "location": "Belcamp, MD",
+      "years": "2006 - 2014"
+    },
+    {
+      "company": "Lunar Logic",
+      "title": "Sr. Software Engineer",
+      "location": "Eugene, OR",
+      "years": "2004 - 2006"
+    }
+  ],
+  "Education": [
+    {
+      "institution": "Worcester Polytechnic Institute",
+      "description": "Master in Computer Science",
+      "location": "Worcester, MA",
+      "years": "2002 - 2004"
+    },
+    {
+      "institution": "IBM Technology Training Center",
+      "description": "IBM WebSphere Application Sever, Visual Age for Java. IBM Lotus Domino/Notes",
+      "years": "2001"
+    }
+  ],
+  "Tech stack": [
+    "js(Node), Ruby, Java, HTML, css",
+    "React, Aurelia, Angular, JQuery, Backbone",
+    "MySQL, Redis, MongoDB, PostgresSQL, DB2 UDB, Oracle, SAP DB (MaxDB)",
+    "Git, Docker, AWS",
+    "OOP/OOD, Functional Programming, TDD/BDD"
+  ],
+  "Public profiles": [
+    {
+      "name": "Git Hub",
+      "link": "https://github.com/zhhz"
+    },
+    {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/in/zhonghai/"
+    },
+    {
+      "name": "NPM",
+      "link": "https://www.npmjs.com/~zhhz"
+    },
+    {
+      "name": "Email",
+      "link": "Please check package.json"
+    }
+  ]
+}

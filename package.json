@@ -1,0 +1,36 @@
+{
+    "author": {
+        "email": "zhonghai.zuo@gmail.com",
+        "name": "Zhonghai Zuo",
+        "url": "https://www.linkedin.com/in/zhonghai/"
+    },
+    "bin": {
+        "andriy-resume": "./index.js"
+    },
+    "dependencies": {
+        "chalk": "^2.4.2",
+        "inquirer": "^6.2.2"
+    },
+    "description": "Online resume - Zhonghai (Z) Zuo",
+    "engines": {
+        "node": ">=8"
+    },
+    "keywords": [
+        "Z",
+        "Zee",
+        "zhhz",
+        "Resume",
+        "Zhonghai Zuo"
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "name": "z-resume",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zhhz/z-resume.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "version": "1.0.0"
+}
