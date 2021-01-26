@@ -1,10 +1,16 @@
 {
   "Experience": [
     {
+      "company": "Key2Act",
+      "title": "Technical Lead",
+      "location": "Newark, DE",
+      "years": "2020 - Present"
+    },
+    {
       "company": "Philadelphia Media Network (The Inquirer)",
       "title": "Principal Software Engineer",
       "location": "Philadelphia, PA",
-      "years": "2018 - Present"
+      "years": "2018 - 2020"
     },
     {
       "company": "Thingworx (PTC)",
@@ -45,10 +51,10 @@
     }
   ],
   "Tech stack": [
-    "js(Node), Ruby, Java, HTML, css",
+    "js(Node), AWS, Java, HTML, css",
     "React, Aurelia, Angular, JQuery, Backbone",
     "MySQL, Redis, MongoDB, PostgresSQL, DB2 UDB, Oracle, SAP DB (MaxDB)",
-    "Git, Docker, AWS",
+    "Git, Docker, Serverless Framework",
     "OOP/OOD, Functional Programming, TDD/BDD"
   ],
   "Public profiles": [
